@@ -54,8 +54,6 @@ public class Main {
                 }
             }
         }
-
-        
         memo.put(targetSum, shortestCombination);
         return shortestCombination;
     }
